@@ -5,7 +5,7 @@ repository for bcb420 for Sabbir Hossain
 ### HTML Notebook File
 
 ### Journal
-https://github.com/bcb420-2022/Sabbir_Hossain/wiki/Journal-Entry-Assignment-%231:---Data-set-selection-and-initial-Processing.
+https://github.com/bcb420-2022/Sabbir_Hossain/wiki/Journal-Entry-Assignment-%231:---Data-set-selection-and-initial-Processing
 
 
 
