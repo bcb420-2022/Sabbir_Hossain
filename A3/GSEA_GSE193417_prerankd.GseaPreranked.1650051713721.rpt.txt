@@ -1,0 +1,24 @@
+producer_class	xtools.gsea.GseaPreranked
+producer_timestamp	1650051713721
+param	rnd_seed	timestamp
+param	rpt_label	GSEA_GSE193417_prerankd
+param	set_min	15
+param	chip	ftp.broadinstitute.org://pub/gsea/annotations_versioned/Human_HGNC_ID_MSigDB.v7.5.1.chip
+param	zip_report	false
+param	create_svgs	false
+param	scoring_scheme	weighted
+param	rnk	C:\Users\hossa\Downloads\GSEA_GSE193417_ranked.rnk
+param	norm	meandiv
+param	out	C:\Users\hossa\gsea_home\output\apr15
+param	mode	Abs_max_of_probes
+param	include_only_symbols	true
+param	help	false
+param	set_max	200
+param	gmx	C:\Users\hossa\Downloads\Human_GOBP_AllPathways_no_GO_iea_March_01_2021_symbol.gmt
+param	make_sets	true
+param	plot_top_x	20
+param	gui	false
+param	nperm	1000
+param	collapse	No_Collapse
+
+file	C:\Users\hossa\gsea_home\output\apr15\GSEA_GSE193417_prerankd.GseaPreranked.1650051713721\index.html
