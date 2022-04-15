@@ -19,4 +19,4 @@ https://github.com/bcb420-2022/Sabbir_Hossain/wiki/Journal-Entry-Assignment-%232
 # Assignment 3
 ### HTML Notebook File
 ## Journal
-https://github.com/bcb420-2022/Sabbir_Hossain/wiki/Journal-Entry-Assignment-%233:--Data-set-Pathway-and-Network-Analysis
+https://github.com/bcb420-2022/Sabbir_Hossain/wiki/Journal-Entry-Assignment-%233:--Dataset-Pathway-and-Network-Analysis
