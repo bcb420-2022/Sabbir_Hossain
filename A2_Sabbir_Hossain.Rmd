@@ -65,7 +65,6 @@ suppressPackageStartupMessages({
   library(RSQLite)
   library(limma)
   library(org.Hs.eg.db)
-  library(umap)
   library(vegan)
   library(gprofiler2)
   library(ggrepel)
