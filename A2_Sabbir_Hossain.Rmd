@@ -45,7 +45,9 @@ if (!requireNamespace("vegan", quietly = TRUE))
 if (!requireNamespace("gprofiler2", quietly = TRUE))
     install.packages("gprofiler2")
 if (!requireNamespace("ComplexHeatmap", quietly = TRUE))
-    install.packages("ComplexHeatmap")})
+    install.packages("ComplexHeatmap")
+if (!requireNamespace("ggrepel", quietly = TRUE))
+    install.packages("ggrepel")})
  
 suppressPackageStartupMessages({
   library(tidyverse)
